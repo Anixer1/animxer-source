@@ -1,6 +1,6 @@
 const descriptions = {
     anime: {
-      title: "Anime Resources",
+      title: "Animxer Resources",
       desc: "Everything you need to watch and download anime, from streaming platforms to tracking tools.",
       streaming: {
         title: "Streaming Platforms",
