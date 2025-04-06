@@ -1,8 +1,8 @@
 // Create the FAQ content structure with dropdowns
 const faqContent = [
   {
-    question: "What is Awesome Anime Sources?",
-    answer: "Awesome Anime Sources is a curated collection of resources for anime, manga, light novels, and other related content. We aim to provide a comprehensive directory for enthusiasts to discover quality platforms and services."
+    question: "What is Animxer Sources?",
+    answer: " Animxer Sources is a curated collection of resources for anime, manga, light novels, and other related content. We aim to provide a comprehensive directory for enthusiasts to discover quality platforms and services."
   },
   {
     question: "Are these sites legal?",
@@ -14,7 +14,7 @@ const faqContent = [
   },
   {
     question: "How do I report a broken link?",
-    answer: "You can report broken links by joining our Discord server through the link in the header or footer. There's a dedicated channel for reporting issues with the site."
+    answer: "You can report broken links by leaving a message on my facebook page through the link in the header or footer. There's a dedicated fb page for reporting issues with the site."
   },
   {
     question: "How often is the site updated?",
@@ -22,7 +22,7 @@ const faqContent = [
   },
   {
     question: "Can I suggest a new resource to add?",
-    answer: "Absolutely! We welcome suggestions from the community. Please submit your recommendations through our Discord server or via GitHub with details about why it should be included."
+    answer: "Absolutely! We welcome suggestions from the community. Please submit your recommendations through our faccbook page with details about why it should be included."
   },
   {
     question: "Is there a way to filter sources by country/region availability?",
